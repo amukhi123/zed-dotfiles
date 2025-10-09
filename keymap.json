@@ -1,0 +1,18 @@
+[
+  {
+    "context": "Workspace",
+    "bindings": {}
+  },
+  {
+    "context": "Editor",
+    "bindings": {}
+  },
+  {
+    "bindings": {
+      "ctrl-w up": "vim::ResizePaneUp",
+      "ctrl-w down": "vim::ResizePaneDown",
+      "ctrl-w right": "vim::ResizePaneRight",
+      "ctrl-w left": "vim::ResizePaneLeft"
+    }
+  }
+]
