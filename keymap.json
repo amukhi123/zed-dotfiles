@@ -12,7 +12,8 @@
       "ctrl-w up": "vim::ResizePaneUp",
       "ctrl-w down": "vim::ResizePaneDown",
       "ctrl-w right": "vim::ResizePaneRight",
-      "ctrl-w left": "vim::ResizePaneLeft"
+      "ctrl-w left": "vim::ResizePaneLeft",
+      "ctrl-w r": "projects::OpenRecent"
     }
   }
 ]
