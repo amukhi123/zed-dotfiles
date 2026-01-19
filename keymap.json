@@ -14,7 +14,9 @@
       "ctrl-w right": "vim::ResizePaneRight",
       "ctrl-w left": "vim::ResizePaneLeft",
       "ctrl-w r": "projects::OpenRecent",
-      "ctrl-w ctrl-o": "workspace::Open"
+      "ctrl-w ctrl-o": "workspace::Open",
+      "ctrl-shift-`": "editor::ToggleFocus",
+      "ctrl-k ctrl-o": "editor::SwitchSourceHeader"
     }
   }
 ]
