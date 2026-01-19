@@ -1,13 +1,5 @@
 [
   {
-    "context": "Workspace",
-    "bindings": {}
-  },
-  {
-    "context": "Editor",
-    "bindings": {}
-  },
-  {
     "bindings": {
       "ctrl-w up": "vim::ResizePaneUp",
       "ctrl-w down": "vim::ResizePaneDown",
@@ -16,7 +8,8 @@
       "ctrl-w r": "projects::OpenRecent",
       "ctrl-w ctrl-o": "workspace::Open",
       "ctrl-shift-`": "editor::ToggleFocus",
-      "ctrl-k ctrl-o": "editor::SwitchSourceHeader"
+      "ctrl-k ctrl-o": "editor::SwitchSourceHeader",
+      "ctrl-o": "workspace::OpenFiles"
     }
   }
 ]
