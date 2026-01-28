@@ -32,6 +32,9 @@
     "light": "One Light",
     "dark": "Nord Dark"
   },
+  "file_types": {
+    "C++": ["**/VC/Tools/MSVC/**/include/**"],
+  },
   "vim_mode": true,
   "show_edit_predictions": false,
   "remove_trailing_whitespace_on_save": false,
